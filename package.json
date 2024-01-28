@@ -1,0 +1,21 @@
+{
+  "name": "http-npm-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@types/node": "^20.11.5",
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
